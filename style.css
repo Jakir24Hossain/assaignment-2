@@ -1,0 +1,25 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.container{
+    background-color: rgba(255, 144, 14, 0.1);
+    width: 1440px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: auto;
+
+}
+.right-side{
+    color: black;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.section-title{
+    text-align: center;
+    font-size: 15px;
+}
+.banner-image{
+    width: 520px;
+    margin: auto;
+}
